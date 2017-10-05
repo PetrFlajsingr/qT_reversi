@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/whitetile.png</file>
+        <file>images/blacktile.png</file>
+        <file>images/backg.png</file>
+        <file>images/highlightedbackg.png</file>
+    </qresource>
+</RCC>
